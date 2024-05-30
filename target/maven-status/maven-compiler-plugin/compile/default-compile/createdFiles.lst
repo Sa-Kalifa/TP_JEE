@@ -1,0 +1,4 @@
+classes\Contact.class
+com\mycompany\gestion_apprenants\JakartaRestConfiguration.class
+com\mycompany\gestion_apprenants\resources\JakartaEE10Resource.class
+servlet\ContactServlet.class
